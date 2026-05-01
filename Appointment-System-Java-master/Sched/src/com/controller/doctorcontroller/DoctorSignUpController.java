@@ -16,7 +16,7 @@ import java.util.GregorianCalendar;
  *
  * @version $Revision: 1.0.0 $
  * @author Nikhil Balwani (1641070)
- */
+ * how Appoinment system work
 public class DoctorSignUpController {    
 
     private DoctorSignUpView doctorSignUpView = null;
