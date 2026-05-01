@@ -13,7 +13,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * @ project DoctorMainScreenController
+ * @ project DoctorMainScreenControllers
 * @version $Revision: 1.0.0 $
 * @author Nikhil Balwani (1641070) 
 */ 
